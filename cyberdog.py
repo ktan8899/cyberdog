@@ -11,7 +11,7 @@ import subprocess
 # [GitHub]: https://github.com/haibrands/cyberdog.git
 ###############################################################################################################
 # [Details]:
-# This script is meant as a capstone for the end of our Cal Poly Extended Education Cybersecurity Bootcamp by Fullstack Academy. It is a script intended for use on a local Linux box, geared toward assisting the user in reconnaissance and enumeration of any given box.
+# This script is a capstone for the end of our Cal Poly Extended Education Cybersecurity Bootcamp by Fullstack Academy. It is a script intended for use on a local Linux box, geared toward assisting the user in reconnaissance and enumeration of any given box.
 ###############################################################################################################
 # [Warning]:
 # We may or may not decide to come back and brush up on this script at times, but it is by no means regularly updated for vulnerabilities/bugs. It is also 100% not the most efficient script out there for reconnaissance/enumeration. Use it for fun!
